@@ -1,5 +1,5 @@
-print("Привет мир!")
-'''
+№ print("Привет мир!")
+
 from flask import Flask, json, request
 import logging
 
@@ -10,4 +10,3 @@ app = Flask(__name__)
 @app.route('/')
 def index():
     return "<p>Привет APP, World!</p>"
-'''
