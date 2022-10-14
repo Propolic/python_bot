@@ -1,4 +1,4 @@
-№ print("Привет мир!")
+# print("Привет мир!")
 
 from flask import Flask, json, request
 import logging
