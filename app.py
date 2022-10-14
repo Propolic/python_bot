@@ -1,5 +1,6 @@
 # print("Привет мир!")
 
+lang = "python"
 from flask import Flask, json, request
 import logging
 
