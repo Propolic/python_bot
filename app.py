@@ -10,4 +10,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return "<p>Привет APP, World!</p>"
+    return "<p>Привет Матвейка! <br>Это наше первое приложение на Питоне в сети Интернет!<br>Ура!</p>"
